@@ -23,3 +23,7 @@
     .tabla{ grid-template-columns: 1fr ;
 }
 }
+nav {
+    display: flex;
+    gap: 1rem;
+}
