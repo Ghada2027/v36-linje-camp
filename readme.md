@@ -35,3 +35,5 @@ det ska inte hoppa någonstans.
 .tabla har tre kolumner, så på en liten skärm  det ändras till en kolumn med en media query.
 
 Destinationerna använder flex-wrap, så korten kan flytta ner när skärmen blir mindre.
+
+Jag testade på 375px. Tabla visade en kolumn och media query var aktiv

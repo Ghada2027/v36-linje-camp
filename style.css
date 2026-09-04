@@ -19,11 +19,12 @@
     padding: 1rem;
     border: 1px solid black;
 }
-@media (max-width: 600px) {
+@media (max-width: 375px) {
     .tabla{ grid-template-columns: 1fr ;
 }
 }
 nav {
     display: flex;
     gap: 1rem;
+    flex-wrap: wrap;
 }
