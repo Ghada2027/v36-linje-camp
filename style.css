@@ -8,3 +8,18 @@
     background: gray;
     border: 1px solid black;
 }
+.kort-rad {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.kort {
+    flex: 1 1 200px;
+    padding: 1rem;
+    border: 1px solid black;
+}
+@media (max-width: 600px) {
+    .tabla{ grid-template-columns: 1fr ;
+}
+}
