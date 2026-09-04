@@ -37,3 +37,5 @@ det ska inte hoppa någonstans.
 Destinationerna använder flex-wrap, så korten kan flytta ner när skärmen blir mindre.
 
 Jag testade på 375px. Tabla visade en kolumn och media query var aktiv
+
+Jag valde två kolumner eftersom det ger mer plats för varje avgång och gör tavlan lättare att läsa. Fler avgångar skapar automatiskt fler rader. På en mindre skärm blir det en kolumn.
